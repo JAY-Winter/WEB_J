@@ -18,6 +18,7 @@
 <h2> Error List </h2>
 <ol> 
   <li>Commit, Push & Pull 이후 repository 에 추가는 되지만 commit 창에는 반영이 안됨</li>
+  <li> '21.08.14(토) 동일 현상 발생
   <p>'21.08.08(일)</p>
   <li>runserver 후 127.0.0.1 입장 시 catalog 로 들어가짐</li>
   <p>'21.08.12(목)</p>
